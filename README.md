@@ -1,6 +1,6 @@
-# Curso-WEB -- Aplicativo Meteorológico
+# Curso-WEB -- Card Animation II
 
-Projeto de desenvolvimento Aplicativo Meteorológico
+Projeto de desenvolvimento Card Animation II
 
 Atividade curso Web
 
