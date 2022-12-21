@@ -37,12 +37,25 @@
     background-image: url(../img/bg-texture.png);
   }
 
+  .container {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+
   .card {
     position: relative;
     width: 340px;
     height: 460px;
     border-radius: 36px;
     overflow: hidden;
+
+    display: flex;
+    align-items: flex-end;
+    margin: 1rem 0.5rem;
   }
 
   .card .card-bg {
